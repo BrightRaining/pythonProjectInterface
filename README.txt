@@ -1,4 +1,3 @@
-# pythonProjectInterface
 pythonProjectInterface 接口自动化
 为自行封装使用，如有不妥之处请留言，以下列举推广后比较好的地方
 1.以接口形式对外开放对使用者要求极低，和其他部门联动十分友好
